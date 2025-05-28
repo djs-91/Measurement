@@ -1,0 +1,12 @@
+pyrealsense2
+numpy
+pandas
+opencv-python
+matplotlib
+torch
+Pillow
+hydra-core
+open3d
+cloudComPy
+scikit-learn
+joblib
